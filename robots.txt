@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yokomunica.com/sitemap.xml
